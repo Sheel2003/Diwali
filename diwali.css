@@ -108,7 +108,7 @@ footer{
   }
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (min-width: 400px) {
   .favorite-time {
     font-size: 4.4em;
   }
