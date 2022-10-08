@@ -85,17 +85,40 @@ footer{
   line-height: 0.2em;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (min-width: 400px) {
   .favorite-time {
-    font-size: 3.4em;
+    font-size: 4.4em;
   }
 
   .letter {
-    font-size: 0.3em;
+    font-size: .9em;
   }
 
   .row{
-      font-size: 0.5em;
+      font-size: 0.9em;
+  }
+
+  .row1{
+      font-size: 1.0em;
+  }
+
+  footer{
+    font-size: 15px;
+    padding: 90px 100px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .favorite-time {
+    font-size: 4.4em;
+  }
+
+  .letter {
+    font-size: .7em;
+  }
+
+  .row{
+      font-size: 0.7em;
   }
 
   .row1{
