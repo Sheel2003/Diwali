@@ -87,15 +87,15 @@ footer{
 
 @media screen and (max-width: 500px) {
   .favorite-time {
-    font-size: 4.4em;
+    font-size: 3.4em;
   }
 
   .letter {
-    font-size: 0.6em;
+    font-size: 0.3em;
   }
 
   .row{
-      font-size: 0.7em;
+      font-size: 0.5em;
   }
 
   .row1{
